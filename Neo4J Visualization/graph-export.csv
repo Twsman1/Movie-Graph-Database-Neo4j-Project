@@ -1,0 +1,62 @@
+"~start_node_id","~start_node_labels","~start_node_property_name","~relationship_type","~end_node_id","~end_node_labels","~end_node_property_year","~end_node_property_title","~start_node_property_year","~start_node_property_title","~end_node_property_name","~relationship_property_rating"
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:51","Actor","Matthew McConaughey","ACTED_IN","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:23","Movie",2014,"Interstellar",,,,
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:23","Movie",,"IN_GENRE","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:2","Genre",,,2014,"Interstellar","Sci-Fi",
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:56","Director","Christopher Nolan","DIRECTED","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:23","Movie",2014,"Interstellar",,,,
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:3","User","Ana","WATCHED","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:23","Movie",2014,"Interstellar",,,,4
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:3","User","Ana","WATCHED","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:15","Movie",2008,"The Dark Knight",,,,5
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:4","User","Bruno","WATCHED","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:14","Movie",2014,"John Wick",,,,3
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:4","User","Bruno","WATCHED","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:18","Movie",1994,"The Shawshank Redemption",,,,5
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:5","User","Carla","WATCHED","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:36","Movie",2019,"Parasite",,,,4
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:5","User","Carla","WATCHED","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:37","Movie",2014,"Whiplash",,,,5
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:6","User","Diego","WATCHED","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:13","Movie",2015,"Mad Max: Fury Road",,,,5
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:6","User","Diego","WATCHED","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:28","Movie",2019,"Avengers: Endgame",,,,4
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:7","User","Eduarda","WATCHED","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:24","Movie",2010,"Inception",,,,5
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:7","User","Eduarda","WATCHED","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:26","Movie",2017,"Blade Runner 2049",,,,4
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:13","Movie",,"IN_GENRE","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:0","Genre",,,2015,"Mad Max: Fury Road","Action",
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:14","Movie",,"IN_GENRE","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:0","Genre",,,2014,"John Wick","Action",
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:15","Movie",,"IN_GENRE","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:0","Genre",,,2008,"The Dark Knight","Action",
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:16","Movie",,"IN_GENRE","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:0","Genre",,,2000,"Gladiator","Action",
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:17","Movie",,"IN_GENRE","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:0","Genre",,,1988,"Die Hard","Action",
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:18","Movie",,"IN_GENRE","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:1","Genre",,,1994,"The Shawshank Redemption","Drama",
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:19","Movie",,"IN_GENRE","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:1","Genre",,,1994,"Forrest Gump","Drama",
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:20","Movie",,"IN_GENRE","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:1","Genre",,,1999,"Fight Club","Drama",
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:21","Movie",,"IN_GENRE","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:1","Genre",,,1972,"The Godfather","Drama",
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:22","Movie",,"IN_GENRE","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:1","Genre",,,1997,"Titanic","Drama",
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:24","Movie",,"IN_GENRE","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:2","Genre",,,2010,"Inception","Sci-Fi",
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:25","Movie",,"IN_GENRE","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:2","Genre",,,1999,"The Matrix","Sci-Fi",
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:26","Movie",,"IN_GENRE","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:2","Genre",,,2017,"Blade Runner 2049","Sci-Fi",
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:27","Movie",,"IN_GENRE","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:2","Genre",,,2016,"Arrival","Sci-Fi",
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:28","Movie",,"IN_GENRE","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:0","Genre",,,2019,"Avengers: Endgame","Action",
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:29","Movie",,"IN_GENRE","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:0","Genre",,,2018,"Black Panther","Action",
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:30","Movie",,"IN_GENRE","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:0","Genre",,,2006,"Casino Royale","Action",
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:31","Movie",,"IN_GENRE","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:0","Genre",,,2012,"Skyfall","Action",
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:32","Movie",,"IN_GENRE","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:0","Genre",,,2018,"Mission: Impossible – Fallout","Action",
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:33","Movie",,"IN_GENRE","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:1","Genre",,,1999,"The Green Mile","Drama",
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:34","Movie",,"IN_GENRE","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:1","Genre",,,2001,"A Beautiful Mind","Drama",
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:35","Movie",,"IN_GENRE","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:1","Genre",,,2019,"Joker","Drama",
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:36","Movie",,"IN_GENRE","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:1","Genre",,,2019,"Parasite","Drama",
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:37","Movie",,"IN_GENRE","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:1","Genre",,,2014,"Whiplash","Drama",
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:38","Movie",,"IN_GENRE","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:2","Genre",,,1977,"Star Wars: A New Hope","Sci-Fi",
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:39","Movie",,"IN_GENRE","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:2","Genre",,,1980,"The Empire Strikes Back","Sci-Fi",
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:40","Movie",,"IN_GENRE","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:2","Genre",,,2021,"Dune","Sci-Fi",
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:41","Movie",,"IN_GENRE","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:2","Genre",,,2014,"Ex Machina","Sci-Fi",
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:42","Movie",,"IN_GENRE","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:2","Genre",,,2015,"The Martian","Sci-Fi",
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:46","Actor","Keanu Reeves","ACTED_IN","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:14","Movie",2014,"John Wick",,,,
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:47","Actor","Christian Bale","ACTED_IN","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:15","Movie",2008,"The Dark Knight",,,,
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:48","Actor","Russell Crowe","ACTED_IN","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:16","Movie",2000,"Gladiator",,,,
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:49","Actor","Tom Hanks","ACTED_IN","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:19","Movie",1994,"Forrest Gump",,,,
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:50","Actor","Leonardo DiCaprio","ACTED_IN","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:24","Movie",2010,"Inception",,,,
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:52","Actor","Robert Downey Jr.","ACTED_IN","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:28","Movie",2019,"Avengers: Endgame",,,,
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:53","Actor","Daniel Craig","ACTED_IN","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:31","Movie",2012,"Skyfall",,,,
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:54","Actor","Ryan Gosling","ACTED_IN","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:26","Movie",2017,"Blade Runner 2049",,,,
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:55","Actor","Timothée Chalamet","ACTED_IN","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:40","Movie",2021,"Dune",,,,
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:56","Director","Christopher Nolan","DIRECTED","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:15","Movie",2008,"The Dark Knight",,,,
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:56","Director","Christopher Nolan","DIRECTED","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:24","Movie",2010,"Inception",,,,
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:57","Director","Ridley Scott","DIRECTED","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:16","Movie",2000,"Gladiator",,,,
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:57","Director","Ridley Scott","DIRECTED","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:42","Movie",2015,"The Martian",,,,
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:59","Director","James Cameron","DIRECTED","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:22","Movie",1997,"Titanic",,,,
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:60","Director","Denis Villeneuve","DIRECTED","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:26","Movie",2017,"Blade Runner 2049",,,,
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:60","Director","Denis Villeneuve","DIRECTED","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:40","Movie",2021,"Dune",,,,
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:63","Director","Sam Mendes","DIRECTED","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:31","Movie",2012,"Skyfall",,,,
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:64","Director","Bong Joon-ho","DIRECTED","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:36","Movie",2019,"Parasite",,,,
+"4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:65","Director","George Lucas","DIRECTED","4:6ad9db54-5bda-40e5-868f-f6ae0efc9dee:38","Movie",1977,"Star Wars: A New Hope",,,,
